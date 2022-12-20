@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.img{
+    background-image: url('Eventmania.jpg');
+}
+
+.bg_img{
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
